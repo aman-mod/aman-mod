@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Aman Moradian
-- 👀 I’m interested in AWS cloud computing 
-- 🌱 I’m currently learning AWS and python Docker, I have becholer degree in Computer science from Kabul university computer science faculty.
-- 💞️ I’m looking to collaborate on AWS
+- 👀 I’m interested in Networking
 - 📫 How to reach me aman.moradian@gmail.com
 
 <!---
